@@ -1,0 +1,10 @@
+# MacOS junk file
+.DS_Store
+
+# Emacs junk files
+*~
+*.elc
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+
